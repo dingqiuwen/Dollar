@@ -1,21 +1,75 @@
-# y
+# 爱创课堂--27期第二组--五万电影
 
-> y
+​	可以选择城市看哪些城市有哪些电影分类
 
-## Build Setup
+​	可以看到近期热映电影
 
-``` bash
-# install dependencies
-npm install
+​	可以浏览电影详情
 
-# serve with hot reload at localhost:8080
-npm run dev
+## 目录部署
 
-# build for production with minification
-npm run build
+| 目录名称            | 项目名称     | 开发周期 | 启动指令   |
+| ------------------- | ------------ | -------- | ---------- |
+| wuwandianyingapp    | 五万电影app  | 5        | yarn serve |
+| wuwandianyingpc     | 五万电影pc   | 5        | yarn serve |
+| wuwandianyinghoutai | 五万电影后台 | 5        | yarn serve |
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
+## 启动项目
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+如何启动: yarn serve
+
+如何测试: yarn run
+
+如何发布：yarn bulid
+
+## 项目成员
+
+​	张弘           项目组组长
+
+​	王敏		   项目组成员
+
+​	丁秋文	   项目组成员
+
+### 张弘开发排期
+
+| 项目名称     | 模块名称               | 开发排期 | 自测排期 |
+| ------------ | ---------------------- | -------- | -------- |
+| 五万电影app  | 个人详情页（包括详情） | 24h      | 24h      |
+| 五万电影pc   | 首页页面               | 48h      | 24h      |
+| 五万电影后台 | 登录页面               | 24h      | 2h       |
+
+### 王敏开发排期
+
+| 项目名称     | 模块名称             | 开发排期 | 自测排期 |
+| ------------ | -------------------- | -------- | -------- |
+| 五万电影app  | 首页页面（包括详情） | 72h      | 24h      |
+| 五万电影pc   | 电影页面             | 72h      | 24h      |
+| 五万电影后台 | 编辑页面             | 24h      | 24h      |
+
+### 丁求文开发排期
+
+| 项目名称     | 模块名称             | 开发排期 | 自测排期 |
+| ------------ | -------------------- | -------- | -------- |
+| 五万电影app  | 影院页面（包括详情） | 72h      | 24h      |
+| 五万电影pc   | 详情页面             | 72h      | 24h      |
+| 五万电影后台 | 添加页面             | 24h      | 24h      |
+
+## 
+
+## 效果图(仅移动端)
+
+### 张弘开发模块效果图
+
+<img src="C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20200204192159292.png" alt="image-20200204192159292" style="zoom:25%;" />
+
+
+
+### 王敏开发模块效果图
+
+<img src="C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20200204192444729.png" alt="image-20200204192444729" style="zoom:33%;" />
+
+
+
+### 丁秋文开发模块效果图
+
+<img src="C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20200204192735602.png" alt="image-20200204192735602" style="zoom:33%;" />
